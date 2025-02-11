@@ -1,4 +1,4 @@
-ountry GDP and News Updates Script
+Country GDP and News Updates Script
 This script allows users to retrieve the latest GDP data and top news headlines for any country. It utilizes the World Bank API for GDP data and the News API for fetching news headlines.
 
 Table of Contents
